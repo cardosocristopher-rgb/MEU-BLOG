@@ -5,3 +5,8 @@
     --vermelho: #bf0603ff;
 
 }
+
+body{
+    background-color: var(--vermelho);
+    font-family: var(--texto);
+    }
