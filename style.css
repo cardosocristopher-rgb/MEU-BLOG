@@ -1,12 +1,13 @@
-:root{
-    --preto: #001427ff;
-    --cinza: #708d81ff;
-    --amarelo: #f4d58dff;
-    --vermelho: #bf0603ff;
 
+
+:root{
+--preto: rgb(41, 47, 54);
+--ciano: rgb(78, 205, 196);
+--branco: rgb(8, 4, 253);
+--vermelho: rgb(243, 11, 11);
 }
 
 body{
-    background-color: var(--vermelho);
-    font-family: var(--texto);
-    }
+background-color: var(--vermelho);
+font-family: var(--texto);
+}
